@@ -13,7 +13,6 @@ Command-line tool for **Ethereum mainnet** wallets: list ERC-20 holdings (via [E
 ## Build
 
 ```bash
-cd crypto-avgr
 go build -o crypto-avgr ./cmd/crypto-avgr
 ```
 
