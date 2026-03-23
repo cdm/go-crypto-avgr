@@ -1,4 +1,4 @@
-# crypto-avgr
+# go-crypto-avgr
 
 Command-line tool for **Ethereum mainnet** wallets: list ERC-20 holdings (via [Etherscan](https://docs.etherscan.io/)), price them with [CoinGecko](https://docs.coingecko.com/), estimate **average buy** and **unrealized P/L** from ERC-20 transfer history (average-cost heuristic), and suggest **DCA buy sizes** to reach a target average (default: current spot).
 
