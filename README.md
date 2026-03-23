@@ -2,7 +2,7 @@
 
 Command-line tool for **Ethereum mainnet** wallets: list ERC-20 holdings (via [Etherscan](https://docs.etherscan.io/)), price them with [CoinGecko](https://docs.coingecko.com/), estimate **average buy** and **unrealized P/L** from ERC-20 transfer history (average-cost heuristic), and suggest **DCA buy sizes** to reach a target average (default: current spot).
 
-**Disclaimer:** On-chain transfer history is not the same as exchange trade history. Incoming transfers are treated as acquisitions at the token’s CoinGecko **daily** USD price (UTC date). This is **not tax advice** and can be wrong for airdrops, bridges, internal transfers, and unlisted tokens.
+**Disclaimer:** On-chain transfer history is not the same as exchange trade history. Incoming transfers are treated as acquisitions at the token’s CoinGecko **daily** USD price (UTC date). This tool is **not tax, crypto or investing advice** of any kind and can be wrong for airdrops, bridges, internal transfers, and unlisted tokens. DYOR and use at your own discretion.
 
 ## Requirements
 
